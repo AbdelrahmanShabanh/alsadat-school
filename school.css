@@ -424,7 +424,7 @@ p {
 .aad {
   transition: all 0.6s ease-in-out;
   color: black;
-  font-size: 10px;
+  font-size: 13px;
 }
 
 .aad:hover {
